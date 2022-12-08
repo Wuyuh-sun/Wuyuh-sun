@@ -1,4 +1,5 @@
-### Hi there 👋
+### 안녕하세요.
+### 저의 깃 저장소에 오신걸 환영합니다.
 
 <!--
 **Wuyuh-sun/Wuyuh-sun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
