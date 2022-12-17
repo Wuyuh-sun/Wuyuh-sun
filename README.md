@@ -1,5 +1,8 @@
-### 안녕하세요.
-### 저의 깃 저장소에 오신걸 환영합니다.
+# 안녕하세요. <br/> 
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWuyuh-sun&count_bg=%237065FF&title_bg=%234F4F4F&icon=github.svg&icon_color=%23FFFFFF&title=connect+user&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
 
 <!--
 **Wuyuh-sun/Wuyuh-sun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
