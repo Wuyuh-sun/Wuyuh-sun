@@ -14,8 +14,6 @@
 
 --------------------
 <br/>
-<br/>
-
 
 <p align='center'> 
  <span style="font-weight:bold; font-size:25px">
@@ -24,8 +22,6 @@
  <br/>
  <br/>
 </p>
-
-
 
 <p align='center'>
   <span style="font-size:20px"> ✨ Language & Framework,Library ✨</span>
@@ -64,7 +60,6 @@
   <br/>
 </p>
 
-
 <p align='center'>
   <span style="font-size:20px"> 🛠️ Tools 🛠️</span>
   <br/>
@@ -84,8 +79,6 @@
   <br/>
 </p>
 
-
-
 <p align='center'>
   <span style="font-size:20px"> 🗂️ Version Control & DevOps 🗂️</span>
   <br/>
@@ -100,10 +93,8 @@
 <br/>
 <hr/>
 <br/>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wuyuh-sun&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wuyuh-sun&layout=compact"><br>
 <img src="https://github-readme-stats.vercel.app/api?username=Wuyuh-sun&show_icons=true">
-<br/>
 <br/>
 <hr/>
 <br/>
