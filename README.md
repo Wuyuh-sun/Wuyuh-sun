@@ -17,6 +17,7 @@
 <br/>
 
 
+<code>
 
 <p align='center'> 
  <span style="font-weight:bold; font-size:25px">
@@ -97,6 +98,9 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=Vercel&logoColor=white"/>
 </p>
+
+</code>
+
 <br/>
 <br/>
 <hr/>
