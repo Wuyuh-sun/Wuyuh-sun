@@ -1,4 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=WUYUH%20-%20SUN&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Junior%20Web%20FE%20Developer&descAlignY=51&descAlign=72)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWuyuh-sun&count_bg=%237065FF&title_bg=%234F4F4F&icon=github.svg&icon_color=%23FFFFFF&title=connect+user&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <p>
   <span style="font-weight:bold; font-size:30px">
     About me
@@ -37,8 +39,8 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 </p>
 <p align='center'>
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/>
+  <!-- <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
@@ -90,15 +92,7 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=Vercel&logoColor=white"/>
 </p>
 <br/>
-<br/>
-<hr/>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wuyuh-sun&layout=compact"><br>
-<img src="https://github-readme-stats.vercel.app/api?username=Wuyuh-sun&show_icons=true">
-<br/>
-<hr/>
-<br/>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWuyuh-sun&count_bg=%237065FF&title_bg=%234F4F4F&icon=github.svg&icon_color=%23FFFFFF&title=connect+user&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 
