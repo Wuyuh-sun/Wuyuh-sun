@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=WUYUH%20-%20SUN&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Junior%20Web%20FE%20Developer&descAlignY=51&descAlign=72)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=WUYUH%20-%20SUN&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Web%20FE%20Developer&descAlignY=51&descAlign=72)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWuyuh-sun&count_bg=%237065FF&title_bg=%234F4F4F&icon=github.svg&icon_color=%23FFFFFF&title=connect+user&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <p>
