@@ -1,9 +1,7 @@
 <!-- HEADER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=WUYUH%20-%20SUN&fontSize=60&fontAlignY=40&desc=Creative%20Frontend%20Developer&descAlignY=60&animation=fadeIn" />
 
-<p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Wuyuh-sun&count_bg=%237065FF&title_bg=%234F4F4F&icon=github.svg&icon_color=%23FFFFFF&title=connect+user&edge_flat=true"/>
-</p>
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FWuyuh-sun&label=&icon=eyeglasses&color=%238c68cd) 
 
 ---
 
