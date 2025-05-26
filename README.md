@@ -1,11 +1,11 @@
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=WUYUH%20-%20SUN&fontSize=60&fontAlignY=40&desc=Creative%20Frontend%20Developer&descAlignY=60&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=WOOU&fontSize=60&fontAlignY=40&desc=Creative%20Frontend%20Developer&descAlignY=60&animation=fadeIn" />
 
 ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FWuyuh-sun&label=&icon=eyeglasses&color=%238c68cd) 
 
 ---
 
-## 👋 Hello, I'm Wuyuh!
+## 👋 Hello, I'm WOOU!
 
 > **Creative Frontend Developer**  
 > Design과 사용성을 함께 고민하며,  
