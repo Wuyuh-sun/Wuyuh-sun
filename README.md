@@ -1,73 +1,72 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=280&section=header&text=WUYUH%20-%20SUN&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Web%20Frontend%20Developer&descAlignY=51&descAlign=70)
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=WUYUH%20-%20SUN&fontSize=60&fontAlignY=40&desc=Creative%20Frontend%20Developer&descAlignY=60&animation=fadeIn" />
 
 <p align="center">
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWuyuh-sun&count_bg=%237065FF&title_bg=%234F4F4F&icon=github.svg&icon_color=%23FFFFFF&title=connect+user&edge_flat=false"/>
-  </a>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Wuyuh-sun&count_bg=%237065FF&title_bg=%234F4F4F&icon=github.svg&icon_color=%23FFFFFF&title=connect+user&edge_flat=true"/>
 </p>
 
 ---
 
-## 👋 About Me
+## 👋 Hello, I'm Wuyuh!
 
-- 📈 꾸준히 성장 중인 **프론트엔드 개발자**
-- 🐈 **호기심**으로 다양한 경험을 추구
-- 🎨 **디자인**에 큰 관심
-- 💼 **구직 중**
+> **Creative Frontend Developer**  
+> Design과 사용성을 함께 고민하며,  
+> 새로운 기술을 배우고 실험하는 걸 좋아합니다.  
+> 🧠 항상 ‘왜?’라고 질문하며 성장합니다.
 
----
-
-## 🚀 Tech Stack
-
-### 💻 Frontend
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
-</p>
-
-### 🖥 Backend & DB
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
-</p>
+- 🧩 다양한 도구를 활용해 작업 환경을 효율화
+- 🎨 UX/UI에 대한 관심 → 디자인 도구도 익숙
+- 💡 개인 프로젝트 & 실험을 꾸준히 진행 중
+- 👀 현재 **구직 중**입니다!
 
 ---
 
-## 🛠 Tools
+## 🛠 Tech & Tools
 
-<p align="center">
-  <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Insomnia-4000BF?style=flat-square&logo=Insomnia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+### 🎨 Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white"/>
 </p>
 
-### 🎨 Design
+### ⚙️ Dev Tools & Environment
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat-square&logo=Adobe XD&logoColor=white"/>
+<p>
+  <img src="https://img.shields.io/badge/Cursor IDE-444444?style=for-the-badge&logo=cursor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+</p>
+
+### 🌐 Services & Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
+### 🧰 Design
+
+<p>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/>
 </p>
 
 ---
 
-## 🗂 Version Control & Deployment
+## 📌 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Wuyuh-sun&show_icons=true&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wuyuh-sun&layout=compact&theme=radical" height="170"/>
 </p>
